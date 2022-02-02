@@ -1,0 +1,14 @@
+id,Name,Area,Available Seasons,Tier
+2013,Campeonato Brasileiro Série A,Brazil,5,TIER_ONE
+2016,Championship,England,5,TIER_ONE
+2021,Premier League,England,123,TIER_ONE
+2001,UEFA Champions League,Europe,21,TIER_ONE
+2018,European Championship,Europe,16,TIER_ONE
+2015,Ligue 1,France,78,TIER_ONE
+2002,Bundesliga,Germany,59,TIER_ONE
+2019,Serie A,Italy,62,TIER_ONE
+2003,Eredivisie,Netherlands,66,TIER_ONE
+2017,Primeira Liga,Portugal,73,TIER_ONE
+2152,Copa Libertadores,South America,2,TIER_ONE
+2014,Primera Division,Spain,89,TIER_ONE
+2000,FIFA World Cup,World,21,TIER_ONE
