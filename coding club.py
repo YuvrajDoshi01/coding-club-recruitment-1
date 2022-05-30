@@ -6,8 +6,8 @@ from pandas.io.json import json_normalize
 
 
 #please enter the tier in words
-#tier = "TIER_" + input("Enter tier : ")
-tier = 'TIER_ONE'
+tier = "TIER_" + input("Enter tier : ")
+#tier = 'TIER_ONE'
 connection = http.client.HTTPConnection('api.football-data.org')
 headers = { 'X-Auth-Token': '82c61e9107cc4befaf0cce92c6fba83f' }
 connection.request('GET', '/v2/competitions?plan='+tier, None, headers )
